@@ -1,0 +1,30 @@
+numpy
+matplotlib
+opencv-python
+scikit-learn
+tensorflow
+pillow
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (large)
+models/*.pkl
+models/*.h5
+
+# Dataset (DO NOT UPLOAD)
+data/
+
+# Outputs (keep if you want screenshots, otherwise uncomment below)
+# outputs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code (optional)
+.vscode/
